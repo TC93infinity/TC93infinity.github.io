@@ -30,7 +30,7 @@
   4. <u><strong>The Marvels</strong></u>   <a href="https://screenrant.com/upcoming-marvel-movies-2023-release-dates/">click here to visit this movie</a>
   <br>
    <br>
-   <img src="../Pictures/blob marvel.jpg" alt="">
+   <img src="https://private-user-images.githubusercontent.com/182928365/371545051-88669af0-e96a-43c0-8ee3-65e758a89c7f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc0NDMwNjcsIm5iZiI6MTcyNzQ0Mjc2NywicGF0aCI6Ii8xODI5MjgzNjUvMzcxNTQ1MDUxLTg4NjY5YWYwLWU5NmEtNDNjMC04ZWUzLTY1ZTc1OGE4OWM3Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkyN1QxMzEyNDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZjkxNjFlMzIwZGFhN2Y0Y2RlZmM3NmVmODc2NjljNzAyMGMzYjJlMjAwMzdiNTVkNjkxNDE0YTk0ODgzMzFhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.89e5HBnMtNusRYyb0oTVQEnUCWeuyCoH10ndL0bK3Is"">
    <br>
    <br>
    <br>
